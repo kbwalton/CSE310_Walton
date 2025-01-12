@@ -19,4 +19,4 @@ This is a basic Hello World program used to demonstrate vscode, github, and pyth
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Canvas video](https://cdnapisec.kaltura.com/html5/html5lib/v2.101/mwEmbedFrame.php/p/1157612/uiconf_id/47306393/entry_id/1_zyyx43ke?wid=_1157612&iframeembed=true&playerId=kaltura_player_1687278321&entry_id=1_zyyx43ke)
+* [Canvas video](https://webmailbyui-my.sharepoint.com/personal/kbwalton_byui_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fkbwalton%5Fbyui%5Fedu%2FDocuments%2FRecording%2D20250111%5F211625%2Ewebm&nav=%7B%22defaultNavPanel%22%3A%7B%22pluginName%22%3A%22MediaSettingsLayer%22%7D%7D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E48bf6c26%2D7f7c%2D47dc%2D8015%2D1d851d8755e5)
